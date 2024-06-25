@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "prl2",
+  "taskName": "prl_cb_2",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
